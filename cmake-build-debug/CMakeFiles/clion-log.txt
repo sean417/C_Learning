@@ -1,0 +1,40 @@
+/Users/chenyang/Desktop/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/chenyang/Desktop/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/chenyang/CLionProjects/untitled
+-- The C compiler identification is unknown
+-- The CXX compiler identification is unknown
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc - broken
+CMake Error at /Users/chenyang/Desktop/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeTestCCompiler.cmake:69 (message):
+  The C compiler
+
+    "/usr/bin/cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /Users/chenyang/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):/Users/chenyang/Desktop/CLion.app/Contents/bin/ninja/mac/ninja cmTC_2f629 && [1/2] Building C object CMakeFiles/cmTC_2f629.dir/testCCompiler.c.o
+    FAILED: CMakeFiles/cmTC_2f629.dir/testCCompiler.c.o 
+    /usr/bin/cc    -o CMakeFiles/cmTC_2f629.dir/testCCompiler.c.o -c /Users/chenyang/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+    dyld[48049]: Library not loaded: /usr/lib/libauto.dylib
+      Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+      Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+    cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+    cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+    ninja: build stopped: subcommand failed.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/chenyang/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/chenyang/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeError.log".

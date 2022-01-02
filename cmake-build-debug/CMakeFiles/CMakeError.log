@@ -1,0 +1,391 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+71
+dyld[47970]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+71
+dyld[47973]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+71
+dyld[47975]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+71
+dyld[47977]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+71
+dyld[47979]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+71
+dyld[47981]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+71
+dyld[47983]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+71
+dyld[47985]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+71
+dyld[47987]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+71
+dyld[47989]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+71
+dyld[47992]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+71
+dyld[47994]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+dyld[47996]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+dyld[47998]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+71
+dyld[48002]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+71
+dyld[48004]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+71
+dyld[48006]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+71
+dyld[48008]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+71
+dyld[48010]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+71
+dyld[48012]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+71
+dyld[48014]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+71
+dyld[48016]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+71
+dyld[48018]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+71
+dyld[48020]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+71
+dyld[48022]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+71
+dyld[48025]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+dyld[48027]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+dyld[48029]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+c++: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+c++: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/chenyang/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/chenyang/Desktop/CLion.app/Contents/bin/ninja/mac/ninja cmTC_51f86 && [1/2] Building C object CMakeFiles/cmTC_51f86.dir/CMakeCCompilerABI.c.o
+FAILED: CMakeFiles/cmTC_51f86.dir/CMakeCCompilerABI.c.o 
+/usr/bin/cc    -o CMakeFiles/cmTC_51f86.dir/CMakeCCompilerABI.c.o -c /Users/chenyang/Desktop/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompilerABI.c
+dyld[48039]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/chenyang/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/chenyang/Desktop/CLion.app/Contents/bin/ninja/mac/ninja cmTC_2f629 && [1/2] Building C object CMakeFiles/cmTC_2f629.dir/testCCompiler.c.o
+FAILED: CMakeFiles/cmTC_2f629.dir/testCCompiler.c.o 
+/usr/bin/cc    -o CMakeFiles/cmTC_2f629.dir/testCCompiler.c.o -c /Users/chenyang/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+dyld[48049]: Library not loaded: /usr/lib/libauto.dylib
+  Referenced from: /Applications/Xcode.app/Contents/SharedFrameworks/DebugSymbolsDT.framework/Versions/A/DebugSymbolsDT
+  Reason: tried: '/usr/lib/libauto.dylib' (no such file), '/usr/local/lib/libauto.dylib' (no such file)
+cc: error: unable to locate xcodebuild, please make sure the path to the Xcode folder is set correctly!
+cc: error: You can set the path to the Xcode folder using /usr/bin/xcode-select -switch
+ninja: build stopped: subcommand failed.
+
+
+
