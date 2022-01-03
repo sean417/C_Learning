@@ -22,5 +22,6 @@ int main(){
         cout<<"sizeof(short)="<< sizeof(short)<<endl;
     }
     return 0;
+
 }
 
